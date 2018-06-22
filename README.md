@@ -1,2 +1,0 @@
-# getsuper
-getsuper website
